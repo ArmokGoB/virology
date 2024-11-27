@@ -16,7 +16,7 @@
   - type: BotanySwab
   - type: GuideHelp
     guides:
-  # - Virology (when it's back)
+    - Virology
     - Botany
     - Chemicals
 
@@ -38,7 +38,7 @@
     capacity: 30
   - type: GuideHelp
     guides:
-  # - Virology (when it's back)
+    - Virology
     - Botany
     - Chemicals
 
